@@ -49,7 +49,7 @@ st.sidebar.success("✅ Model Loaded")
 
 st.sidebar.write("Algorithm")
 st.sidebar.code("Logistic Regression")
-st.success("Model Loaded Successfully ✅")
+# st.success("Model Loaded Successfully ✅")
 
 st.sidebar.write("Dataset")
 
